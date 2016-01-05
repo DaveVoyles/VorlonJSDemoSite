@@ -1,5 +1,5 @@
 # VorlonJS tutorial
-### emo site for testing out the VorlonJS debuger
+### Demo site for testing out the VorlonJS debugger
 
 ## Author: Dave Voyles
 ### [@DaveVoyles](http://www.twitter.com/DaveVoyles)
