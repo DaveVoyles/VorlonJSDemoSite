@@ -32,4 +32,4 @@ Look at your dashboard, and you'll now see that the users are viewing the page. 
 
 
 ## More information
-Can be found at the (VorlonJS GitHub)[https://github.com/MicrosoftDX/Vorlonjs/]
+Can be found at the [VorlonJS GitHub](https://github.com/MicrosoftDX/Vorlonjs/)
