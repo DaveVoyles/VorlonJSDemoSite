@@ -11,7 +11,7 @@ A new, open source, extensible, platform-agnostic tool for remotely debugging an
 
 Understand all about Vorlon.js in 20 minutes watching this video : https://channel9.msdn.com/Shows/codechat/046
 
-Learn more at [VorlonJS](http://vorlonjs.com).
+Learn more at [VorlonJS](http://vorlonjs.com) or check out [my installation instructions here.](https://www.davevoyles.com/2015/05/03/debugging-web-apps-with-vorlon-js/)
 
 ## Deploy on Azure  
  [![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)  
